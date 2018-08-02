@@ -4,8 +4,10 @@ Live Site: http://www.robbieg.io/swapibox/
 
 Robbie Greiner & Hector Sanchez
 
-This application fetches data from the Star Wars API (SWAPI) and displays it on the page using React.  User can click on
-cards to favorite them.  Also utilizing local storage to save data after initial fetch and save favorites.
+## App Description
+This application retrieves data from the Star Wars API https://swapi.co/. The application renders movie data for the user in the form of cards.  The user is able to favorite/unfavorite cards.
+
+This project was design to develop my ability to write asynchronous code, deal with nested fetch calls, fetch data from an api, manipulate data, build a successful application using React.js, effectively test React components, and build a functioning application in a collaborative work environment.
 
 Link to assignment repo: http://frontend.turing.io/projects/swapi-box.html
 
@@ -21,10 +23,6 @@ run `npm install`
 run `npm start`
 
 
-## App Description
-This application retrieves data from the Star Wars API https://swapi.co/. The application renders movie data for the user in the form of cards.  The user is able to favorite/unfavorite cards.
-
-This project was design to develop my ability to write asynchronous code, deal with nested fetch calls, fetch data from an api, manipulate data, build a successful application using React.js, effectively test React components, and build a functioning application in a collaborative work environment.
 
 
 
