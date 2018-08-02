@@ -1,6 +1,7 @@
 # Swapi Box (Star Wars API)
 
-Live Site: http://www.robbieg.io/swapibox/
+Link to live App:
+https://swappi-box-hs-12-30-2018.herokuapp.com/
 
 Robbie Greiner & Hector Sanchez
 
@@ -9,10 +10,6 @@ This application retrieves data from the Star Wars API https://swapi.co/. The ap
 
 This project was design to develop my ability to write asynchronous code, deal with nested fetch calls, fetch data from an api, manipulate data, build a successful application using React.js, effectively test React components, and build a functioning application in a collaborative work environment.
 
-Link to assignment repo: http://frontend.turing.io/projects/swapi-box.html
-
-Link to live App:
-https://swappi-box-hs-12-30-2018.herokuapp.com/
 
 ## Instructions
 
